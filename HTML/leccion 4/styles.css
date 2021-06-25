@@ -1,0 +1,10 @@
+.target{
+    background-color: rgb(151, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 10px solid black;
+    text-align: center;
+    margin: 10px 10px 50px;
+}
+.target h1{
+    padding: 3rem;
+}
